@@ -1,4 +1,4 @@
 <?php
 $color= "red"
-echo "My car is of $color color"
+echo "My car is of".$color."color"
 ?>
