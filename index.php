@@ -2,10 +2,9 @@
 <body bgcolor="#14ff95">
 <?php
 
-$color= "red"
-
-echo "My car is of".$color."color"
-
+$color= "red";
+echo "My car is of ".$color." color"
+;
 ?>
 
 </body>
