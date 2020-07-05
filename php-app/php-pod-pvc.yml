@@ -14,7 +14,7 @@ spec:
 apiVersion: v1
 kind: Pod
 metadata:
-    name: myweb-pod
+    name: php-pod
     labels:
         env: testing
         region: IN
