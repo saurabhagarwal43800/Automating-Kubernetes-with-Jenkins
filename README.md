@@ -1,4 +1,4 @@
-# Automating Kubernetes with Jekins  
+# Automating Kubernetes with Jenkins  
 
 <img src="imgs/devTask3.jpg" alt="Main Image">  
 
